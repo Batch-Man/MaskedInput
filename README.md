@@ -1,4 +1,4 @@
-# MaskedInput by anic17
+# MaskedInput
 
 Syntax:  
 
@@ -10,4 +10,4 @@ Example:
 Will make a masked input with 'Password: ' prompt and it will print result into STDOUT  
 
 
-**Copyright (c) 2020 anic17 Software**
+**Copyright (c) 2020 [anic17](https://github.com/anic17) Software**
